@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/stevearc/overseer.nvim/compare/v1.3.0...v1.3.1) (2023-10-10)
+
+
+### Bug Fixes
+
+* support 'note' and 'info' quickfix types in on_result_diagnostics ([#220](https://github.com/stevearc/overseer.nvim/issues/220)) ([4b811f8](https://github.com/stevearc/overseer.nvim/commit/4b811f8283dde37b38cb369a6397933c30eacaf3))
+
 ## [1.3.0](https://github.com/stevearc/overseer.nvim/compare/v1.2.0...v1.3.0) (2023-10-06)
 
 
